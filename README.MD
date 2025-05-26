@@ -1,5 +1,5 @@
 # Como contribuir contra o racismo
-Este projeto é uma página web informativa sobre os impactos do desmatamento no meio ambiente e na qualidade de vida das pessoas. Através de uma abordagem visual e clara, o conteúdo é dividido em seções que explicam os problemas causados pela destruição das florestas, suas consequências e as ações necessárias para mitigar seus efeitos.
+Este projeto é uma página web informativa sobre como contribuir contra o racismo. Através de uma abordagem visual e clara, o conteúdo é dividido em seções que explicam os problemas causados pelo racismo, suas consequências e as ações necessárias para mitigar seus efeitos.
 
 ### Estrutura do Projeto
 Tecnologias Utilizadas:
@@ -12,27 +12,20 @@ style.css: Arquivo de estilos para formatação da página.
 
 ### Descrição das Seções:
 Cabeçalho (Header):
-* Título da página com o nome "Impacto do Desmatamento".
-* Parágrafo explicativo sobre como o desmatamento afeta o ambiente e as pessoas.
+* Título da página com o nome "Como contribuir contra o racismo".
+* Parágrafo explicativo sobre o racismo.
 * Navegação com links internos para as seções "Os Problemas", "Consequências" e "Conclusão".
 
 #### Problemas:
+O racismo causa problemas de saúde mental (estresse, ansiedade, depressão), desigualdade social e econômica, e limitações em oportunidades de educação e emprego. A falta de acesso a uma educação de qualidade e oportunidades de trabalho pode levar a uma maior vulnerabilidade social e marginalização de grupos raciais. 
 
-Seção detalhando os principais problemas gerados pelo desmatamento:
-Aumento das enchentes.
-Calor excessivo e ilhas de calor.
-Redução da qualidade de vida.
 
 #### Consequências:
-
-Lista das consequências diretas do desmatamento, como:
-* Aumento das enchentes e erosão do solo.
-* Mudanças climáticas e perda da biodiversidade.
-* Impacto na saúde pública e economia local.
+O racismo causa um amplo espectro de consequências, afetando a saúde mental, o bem-estar social, a educação, o mercado de trabalho e a vida em geral. Desde estresse, ansiedade e depressão, até desigualdades econômicas, violência e problemas de saúde, as consequências do racismo são profundas e duradouras. 
 
 #### Conclusão:
 
-Reflexão final sobre a necessidade de ações para combater o desmatamento, incluindo preservação ambiental, reflorestamento e práticas sustentáveis.
+O racismo é um problema complexo e multifacetado que exige uma abordagem abrangente e contínua. 
 
 #### Rodapé (Footer):
 
